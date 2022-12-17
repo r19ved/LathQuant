@@ -1,0 +1,10 @@
+Image,Area Fraction (%) - Alpha,Mean Intercept - Objects (Random) (um) - Alpha,Mean Intercept - Holes (Random) (um) - Alpha,Mean Inverse Intercept - Objects (Random) (1/um) - Alpha,Mean Inverse Intercept - Holes (Random) (1/um) - Alpha,Area Fraction (%) - Beta,Mean Intercept - Objects (Random) (um) - Beta,Mean Intercept - Holes (Random) (um) - Beta,Mean Inverse Intercept - Objects (Random) (1/um) - Beta,Mean Inverse Intercept - Holes (Random) (1/um) - Beta
+Predicted_mask_Image0.tif,88.293,1.2687,0.25435,1.4324,4.6422,11.707,0.25574,1.2834,4.6129,1.4156
+Predicted_mask_Image1.tif,90.412,1.6319,0.26002,1.2281,4.5636,9.588,0.26146,1.6318,4.5739,1.2133
+Predicted_mask_Image2.tif,86.106,1.0188,0.25062,1.6143,4.6695,13.894,0.24667,1.0212,4.7073,1.6046
+Predicted_mask_Image3.tif,87.591,1.1921,0.25258,1.4102,4.624,12.409,0.25294,1.1865,4.6316,1.4183
+Predicted_mask_Image4.tif,88.408,1.2279,0.24729,1.4132,4.6578,11.592,0.2474,1.2211,4.6476,1.407
+Predicted_mask_Image5.tif,89.376,1.8022,0.27662,1.085,4.3746,10.624,0.27745,1.8149,4.3518,1.0832
+Predicted_mask_Image6.tif,91.111,2.0392,0.27509,0.98321,4.4414,8.889,0.27187,2.0278,4.4607,0.99143
+Predicted_mask_Image7.tif,91.475,2.2903,0.28288,0.89634,4.3026,8.525,0.27692,2.2583,4.3525,0.90418
+Predicted_mask_Image8.tif,86.826,1.435,0.27653,1.1311,4.3739,13.174,0.27986,1.4574,4.3351,1.1197
